@@ -15,6 +15,8 @@ Draft (how to proceed with EDA): (DONE)
 
 // Some planned steps: (DONE)
 - build pipeline
+
+// Create Validation set
   
 // Try generating new features from the existing one
 
@@ -26,3 +28,5 @@ Draft (how to proceed with EDA): (DONE)
 // Try finding correlation b/w categorical features
 
 // What if new unknown value contains 0 cholestrol, then we need to use our trained model to replace cholestrol value. So for that ig i'll need pipeline
+
+// Need to try ensembling of the models
